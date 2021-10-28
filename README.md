@@ -1,2 +1,0 @@
-# cartnshop
-cartnshop informative site
